@@ -30,7 +30,7 @@ Please email us with:
 ## Privacy Policy
 
 Your privacy is important to us.  
-Read our privacy policy here: **https://yourdomain.com/privacy**
+Read our privacy policy here: **https://highscorejimmy.github.io/the-meal-app-support/privacy.html**
 
 ## Marketing URL
 
