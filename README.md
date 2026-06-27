@@ -32,6 +32,10 @@ Please email us with:
 Your privacy is important to us.  
 Read our privacy policy here: **https://yourdomain.com/privacy**
 
+## Marketing URL
+
+Learn more about The Meal App here: **https://highscorejimmy.github.io/the-meal-app-support/marketing.html**
+
 ## Compatibility
 
 The Meal App supports iPhones running recent iOS versions. For best performance, keep iOS updated.
@@ -39,3 +43,7 @@ The Meal App supports iPhones running recent iOS versions. For best performance,
 ## Legal
 
 The Meal App and its content are provided “as is” without warranties of any kind.
+
+## Copyright
+
+© 2026 The Meal App. All rights reserved.
