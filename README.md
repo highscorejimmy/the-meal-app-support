@@ -6,7 +6,7 @@ Welcome to the support page for **The Meal App**.
 
 If you need help, found a bug, or want to suggest a feature, please contact us:
 
-- **Email:** support@yourdomain.com  
+- **Email:** highscorejimmy@icloud.com  
 - **Response time:** Within 2–3 business days
 
 ## Frequently Asked Questions
